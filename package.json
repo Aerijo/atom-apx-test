@@ -1,7 +1,7 @@
 {
   "author": "Benjamin Gray",
   "main": "./lib/main.js",
-  "version": "3.2.1",
+  "version": "3.3.0",
   "repository": {
     "type": "git",
     "url": "Aerijo/atom-apx-test"
@@ -9,9 +9,7 @@
   "keywords": [],
   "license": "MIT",
   "name": "apx-test",
-  "scripts": {
-    
-  },
+  "scripts": {},
   "dependencies": {
     "semver": "^6.2.0"
   }
