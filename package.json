@@ -27,7 +27,7 @@
     "uninstall": "echo 'uninstall'",
     "postuninstall": "echo 'postuninstall'",
     "preversion": "echo 'preversion'",
-    "version": "echo 'version'",
+    "version": "echo 'version' && node lib/version.js",
     "postversion": "echo 'postversion'",
     "pretest": "echo 'pretest'",
     "test": "echo 'test'",
