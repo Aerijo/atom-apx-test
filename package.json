@@ -6,6 +6,9 @@
     "type": "git",
     "url": "https://github.com/Aerijo/atom-apx-test"
   },
+  "files": [
+    "./lib"
+  ],
   "keywords": [],
   "license": "MIT",
   "name": "apx-test",
