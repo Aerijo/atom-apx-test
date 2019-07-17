@@ -13,7 +13,6 @@
   "license": "MIT",
   "name": "apx-test",
   "scripts": {
-    "prepublish": "echo 'prepublish'",
     "prepare": "echo 'prepare'",
     "prepublishOnly": "echo 'prepublishOnly'",
     "prepack": "echo 'prepack'",
