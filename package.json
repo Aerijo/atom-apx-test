@@ -46,6 +46,7 @@
     "postshrinkwrap": "echo 'postshrinkwrap'"
   },
   "dependencies": {
+    "apx-native-module": "0.0.1",
     "semver": "^6.2.0"
   }
 }
