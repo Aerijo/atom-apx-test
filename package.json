@@ -46,8 +46,6 @@
   },
   "dependencies": {
     "apx-native-module": "0.0.1",
-    "semver": "^6.2.0",
-    "tree-sitter": "^0.15.8",
-    "tree-sitter-javascript": "github:Aerijo/tree-sitter-javascript"
+    "semver": "^6.2.0"
   }
 }
