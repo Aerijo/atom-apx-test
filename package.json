@@ -1,7 +1,7 @@
 {
   "author": "Benjamin Gray",
   "main": "./lib/main.js",
-  "version": "6.0.3",
+  "version": "6.1.0",
   "repository": {
     "type": "git",
     "url": "https://github.com/Aerijo/atom-apx-test"
